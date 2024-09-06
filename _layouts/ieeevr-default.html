@@ -139,8 +139,11 @@ layout: default
         <section class="page__content" itemprop="text">
             <div class="row">
                 <!-- Main Content -->
-                {{ content }}
-            </div>
+                <!-- left sidebar -->
+                <div class="column left">
+                    {{ content }}
+                </div>
+                <div class="column center"></div>
 
                 <!-- right sidebar -->
                 <div class="column right alignCenter"> 
