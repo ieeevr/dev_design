@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: ieeevr-default
 title: "Venue"
-permalink: /venue/
+subtitle: "IEEE VR 2025"
+title_separator: "|"
 ---
 
 # Venue Information
