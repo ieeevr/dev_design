@@ -24,7 +24,7 @@ title_separator: "|"
     </p>
     <h2>Arriving by plane</h2>
     <p>
-        1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either:  Take a direct TGV train to Rennes and then a connection to Saint-Malo. Take an Air France bus shuttle or (RER B) + (Metro line 6) to Montparnasse railway station and then take a TGV to Saint-Malo. 
+        1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either:  Take a direct TGV train to Rennes and then a connection to Saint-Malo. Take an Air France bus shuttle or (RER B) + (Metro line 6) to Montparnasse railway station and then take a TGV to Saint-Malo.
         2/ Landing at Orly airport, take an Air France bus shuttle or the (Metro line 14) + (Metro line 6 or 4) to Montparnasse railway station and then take a TGV to Saint-Malo (either direct or via Rennes).
         3/  Landing at Rennes – Saint Jacques Airport, you may either: Take a bus or a taxi to Rennes railway station, then take a direct train to Saint-Malo. Rent a car at the airport or take a taxi. Saint-Malo is 75 km away, less than a 1-hour trip.
     </p>
@@ -43,7 +43,7 @@ title_separator: "|"
     <h2>Arriving by boat</h2>
     <p>
         From Portsmouth (UK): Direct and daily cruises with Brittany Ferries:
-        <ul><li><a href="https://www.brittany-ferries.co.uk/"></a></li></ul>
+        <a href="https://www.brittany-ferries.co.uk/">https://www.brittany-ferries.co.uk/</a>
     </p>
     <h2>Arriving by bike</h2>
     <p>
@@ -51,7 +51,7 @@ title_separator: "|"
     </p>
     <h2>How to Buy Paris Metro Tickets Online</h2>
     <p>
-        To make your travel experience in Paris more convenient, you can purchase metro tickets online through the “Ile de France Mobilité” app <ul><li><a href="https://www.iledefrance-mobilites.fr/en"></a></li></ul>, the "Bonjour RATP" app <ul><li><a href="https://www.ratp.fr/en/apps/bonjour-ratp"></a></li></ul>, or the "SNCF Connect" app <ul><li><a href="https://www.sncf-connect.com/en-en/tools/mobile-app"></a></li></ul>. Mobile tickets will be added to your phone. Various ticket options are available, including single rides, daily passes, and multi-day passes for unlimited travel. Online payment is secure, and instructions are provided in multiple languages to ensure ease of use for international travellers.
+        To make your travel experience in Paris more convenient, you can purchase metro tickets online through the “Ile de France Mobilité” app <a href="https://www.iledefrance-mobilites.fr/en">Ile de France Mobilité</a>, the "Bonjour RATP" app <a href="https://www.ratp.fr/en/apps/bonjour-ratp">Bonjour RATP</a>, or the "SNCF Connect" app <a href="https://www.sncf-connect.com/en-en/tools/mobile-app">SNCF Connect</a>. Mobile tickets will be added to your phone. Various ticket options are available, including single rides, daily passes, and multi-day passes for unlimited travel. Online payment is secure, and instructions are provided in multiple languages to ensure ease of use for international travellers.
     </p>
 
 </div>
