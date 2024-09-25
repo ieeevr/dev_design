@@ -32,7 +32,7 @@ title_separator: "|"
     <p>
         From Paris Montparnasse railway station: Direct TGV train to Saint-Malo in 2h15 or via Rennes with a connection to Saint-Malo (around 2h30 trip)  
         Direct TGV trains to Rennes with connection to St Malo (45 à 60 min trip)  from : Lille (3h30), Roissy (2h30), Massy (1h35), Strasbourg (4h50), Lyon (4h), Marseille (6h).
-        To book your ticket online or on the app: <ul><li><a href="https://www.sncf-connect.com/"></a></li></ul>
+        To book your ticket online or on the app: <a href="https://www.sncf-connect.com/"></a>
     </p>
     <h2>Arriving by car</h2>
     <p>
