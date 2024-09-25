@@ -23,8 +23,7 @@ title_separator: "|"
         The Conference Center is easily accessible by direct TGV from Paris and Rennes, which are served by numerous air links. <br>
         Saint-Malo train station is 22min walk and 5min drive from the Conference Center. 
     </p>
-    <h2>Arriving by plane</h2>
-    <img src="{{ '/assets/images/icons/plane.png' | relative_url }}" alt="Plane" style="height: 1.2em; vertical-align: middle;"/>
+    <h2><img src="{{ '/assets/images/icons/plane.png' | relative_url }}" alt="Plane" style="height: 1.5em; vertical-align: middle;"/>Arriving by plane</h2>
     <p>
         1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either: <br>
         - Take a direct TGV train to Rennes and then a connection to Saint-Malo. <br>
