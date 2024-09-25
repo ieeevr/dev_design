@@ -7,7 +7,7 @@ title_separator: "|"
 <div>
     <h1>Venue</h1>
     <p>
-        IEEE VR 2025 will take place at the Palais du Grand Large in Saint-Malo, France.
+        IEEE VR 2025 will take place at the Palais du Grand Large in Saint-Malo, France. <br>
         Address : 1 Quai Duguay-Trouin, 35400 Saint-Malo
     </p>
     <iframe 
@@ -23,7 +23,9 @@ title_separator: "|"
         The Conference Center is easily accessible by direct TGV from Paris and Rennes, which are served by numerous air links. <br>
         Saint-Malo train station is 22min walk and 5min drive from the Conference Center. 
     </p>
-    <h2>Arriving by plane</h2>
+    <h2>
+    <img src="assets/images/icons/plane.png" alt="Plane" style="height: 1.2em; vertical-align: middle;"/>
+    Arriving by plane</h2>
     <p>
         1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either: <br>
         - Take a direct TGV train to Rennes and then a connection to Saint-Malo. <br>
