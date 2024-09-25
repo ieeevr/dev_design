@@ -24,7 +24,7 @@ title_separator: "|"
         Saint-Malo train station is 22min walk and 5min drive from the Conference Center. 
     </p>
     <h2>
-    <img src="../assets/images/icons/favicon.png" alt="Plane" style="height: 1.2em; vertical-align: middle;"/>
+    <img src="../assets/images/icons/plane.png" alt="Plane" style="height: 1.2em; vertical-align: middle;">
     Arriving by plane</h2>
     <p>
         1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either: <br>
