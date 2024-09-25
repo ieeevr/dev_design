@@ -25,7 +25,9 @@ title_separator: "|"
     </p>
     <h2>
     Arriving by plane</h2>
+    <figure>
     <img src="/assets/images/icons/plane.png" alt="Plane" style="height: 1.2em; vertical-align: middle;">
+    </figure>
     <p>
         1/ Landing at Roissy Charles De Gaulle (CDG) airport, you may either: <br>
         - Take a direct TGV train to Rennes and then a connection to Saint-Malo. <br>
