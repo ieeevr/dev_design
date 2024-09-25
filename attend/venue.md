@@ -18,6 +18,10 @@ title_separator: "|"
         allowfullscreen="" 
         loading="lazy" 
         referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="{{ '/assets/images/exterieur-pgl.jpg' | relative_url }}" alt="Image 1" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
+    <img src="{{ '/assets/images/rjc-sunset-2.jpg' | relative_url }}" alt="Image 2" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
+</div>
     <h2>How to get there ?</h2>
     <p>
         The Conference Center is easily accessible by direct TGV from Paris and Rennes, which are served by numerous air links. <br>
@@ -39,18 +43,18 @@ title_separator: "|"
         Direct TGV trains to Rennes with connection to St Malo (45 à 60 min trip) from: Lille (3h30), Roissy (2h30), Massy (1h35), Strasbourg (4h50), Lyon (4h), Marseille (6h).<br>
         To book your ticket online or on the app: <a href="https://www.sncf-connect.com/">SNCF Connect</a>
     </p>
-    <h2><img src="{{ '/assets/images/icons/car.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/> Arriving by car</h2>
+    <h2><img src="{{ '/assets/images/icons/car.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/>   Arriving by car</h2>
     <p>
         1/ From Paris: 3.5 hours by motorway<br>
         2/ From Rennes: 1 hour by motorway<br>
         3/ From Nantes: 2 hours by motorway
     </p>
-    <h2><img src="{{ '/assets/images/icons/boat.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/> Arriving by boat</h2>
+    <h2><img src="{{ '/assets/images/icons/boat.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/>  Arriving by boat</h2>
     <p>
         From Portsmouth (UK): Direct and daily cruises with Brittany Ferries: <br>
         <a href="https://www.brittany-ferries.co.uk/">https://www.brittany-ferries.co.uk/</a>
     </p>
-    <h2><img src="{{ '/assets/images/icons/bike.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/> Arriving by bike</h2>
+    <h2><img src="{{ '/assets/images/icons/bike.png' | relative_url }}" alt="Plane" style="height: 2em; vertical-align: middle;"/>  Arriving by bike</h2>
     <p>
         For the adventurous souls, arriving by bike is also an option, though it might take a bit longer!
     </p>
