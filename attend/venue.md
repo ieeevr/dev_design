@@ -32,7 +32,7 @@ title_separator: "|"
     <p>
         From Paris Montparnasse railway station: Direct TGV train to Saint-Malo in 2h15 or via Rennes with a connection to Saint-Malo (around 2h30 trip)  
         Direct TGV trains to Rennes with connection to St Malo (45 à 60 min trip)  from : Lille (3h30), Roissy (2h30), Massy (1h35), Strasbourg (4h50), Lyon (4h), Marseille (6h).
-        To book your ticket online or on the app: <ul><li><a href="https://www.sncf-connect.com/"></a></li>
+        To book your ticket online or on the app: <ul><li><a href="https://www.sncf-connect.com/"></a></li></ul>
     </p>
     <h2>Arriving by car</h2>
     <p>
@@ -43,7 +43,7 @@ title_separator: "|"
     <h2>Arriving by boat</h2>
     <p>
         From Portsmouth (UK): Direct and daily cruises with Brittany Ferries:
-        <ul><li><a href="https://www.brittany-ferries.co.uk/"></a></li>
+        <ul><li><a href="https://www.brittany-ferries.co.uk/"></a></li></ul>
     </p>
     <h2>Arriving by bike</h2>
     <p>
@@ -51,7 +51,7 @@ title_separator: "|"
     </p>
     <h2>How to Buy Paris Metro Tickets Online</h2>
     <p>
-        To make your travel experience in Paris more convenient, you can purchase metro tickets online through the “Ile de France Mobilité” app <ul><li><a href="https://www.iledefrance-mobilites.fr/en"></a></li>, the "Bonjour RATP" app <ul><li><a href="https://www.ratp.fr/en/apps/bonjour-ratp"></a></li>, or the "SNCF Connect" app <ul><li><a href="https://www.sncf-connect.com/en-en/tools/mobile-app"></a></li>. Mobile tickets will be added to your phone. Various ticket options are available, including single rides, daily passes, and multi-day passes for unlimited travel. Online payment is secure, and instructions are provided in multiple languages to ensure ease of use for international travellers.
+        To make your travel experience in Paris more convenient, you can purchase metro tickets online through the “Ile de France Mobilité” app <ul><li><a href="https://www.iledefrance-mobilites.fr/en"></a></li></ul>, the "Bonjour RATP" app <ul><li><a href="https://www.ratp.fr/en/apps/bonjour-ratp"></a></li></ul>, or the "SNCF Connect" app <ul><li><a href="https://www.sncf-connect.com/en-en/tools/mobile-app"></a></li></ul>. Mobile tickets will be added to your phone. Various ticket options are available, including single rides, daily passes, and multi-day passes for unlimited travel. Online payment is secure, and instructions are provided in multiple languages to ensure ease of use for international travellers.
     </p>
 
 </div>
