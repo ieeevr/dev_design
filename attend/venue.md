@@ -19,9 +19,9 @@ title_separator: "|"
         loading="lazy" 
         referrerpolicy="no-referrer-when-downgrade"></iframe>
     <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img src="{{ '/assets/images/exterieur-pgl.jpg' | relative_url }}" alt="Image 1" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
-    <img src="{{ '/assets/images/rjc-sunset-2.jpg' | relative_url }}" alt="Image 2" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
-</div>
+        <img src="{{ '/assets/images/exterieur-pgl.jpg' | relative_url }}" alt="Image 1" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
+        <img src="{{ '/assets/images/rjc-sunset-2.jpg' | relative_url }}" alt="Image 2" style="flex: 1 1 300px; max-width: 100%; height: auto;"/>
+    </div>
     <h2>How to get there ?</h2>
     <p>
         The Conference Center is easily accessible by direct TGV from Paris and Rennes, which are served by numerous air links. <br>
